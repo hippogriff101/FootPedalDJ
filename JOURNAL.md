@@ -10,3 +10,30 @@ This is my journal of the design and building process of **FootPedalDJ**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/161).
 
 
+## 10/5/2025 - Created Github and a Plan  
+
+# FootPedalDJ
+
+After some chat with ChatGPT I have decided what my frist Blueprint nad first overall hardware project will be. 
+
+Think '_Elgato Stream Deck Pedal_' but homemade.
+
+## What?
+
+A foot pedal with two programable buttons. There are two modes built into the pedal; MIDI and Keyboard, this means when in MIDI mod (green LED's) each button will send a MIDI output but when in Keyboard mode (red) each button will send a key or key combination.
+
+## Why?
+
+This will be a fun first project with hands on experiance with PCB's, microcontrolers (for one learning what the things actually are). I've wanted to up my DJ'ing and why not have a pedal to easlly control MIDI but also be able to pause a youtube video with a press of my toe.
+
+## Tier
+
+Tier 4 – under $50, beginner project with PCB + 3D print.
+
+## Repo
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NTA4LCJwdXIiOiJibG9iX2lkIn19--53151a12975b20a8069ae606d0021eb703b61e3d/image.png)
+
+
+  
+
