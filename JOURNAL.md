@@ -37,3 +37,10 @@ Tier 4 – under $50, beginner project with PCB + 3D print.
 
   
 
+## 10/15/2025 - Made BOM & researched parts + costs  
+
+OK, some change has come about. I have decided to follow [this](https://www.youtube.com/watch?v=H3WevrsmO9o) tutorial but slighley edit the Audino code and possibley 3d print the case and add LED's and the ablity to switch between MIDI mode and keyboard. I made a `BOM.cvs` but am shocked as the prices to import stuff to the uk are shocking meaning I may have to apply for Tier 3 at the risk of not being apporved to afford all this. 
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--12a3953389d78d042cbce495c57f34a71245508a/image.png)
+  
+
