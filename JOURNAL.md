@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **FootPedalDJ**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/161).
-
-
 ## 10/5/2025 - Created Github and a Plan  
 
 # FootPedalDJ
@@ -43,4 +39,28 @@ OK, some change has come about. I have decided to follow [this](https://www.yout
 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--12a3953389d78d042cbce495c57f34a71245508a/image.png)
   
+
+## 10/30/2025 - Updated repo and more planning  
+
+I updated my `BOM.cvs` with some new links and some nice formatting. I have found a few of the things I need on ali express for bunches cheaper than amazon, current cost estimate is £59.53 which is over $70 USD so I am going to apply for Tier 3 (_as recomended by someone in #blueprint-help_) but may use #printing-legion to print a case instead. I'm still learning how I would hypothetically solder stuff etc. I've also made a tools needed list:
+
+#### Tools
+
+- Soldering Iron
+- Drill (if using metal case)
+- Helping arms/hand
+- Solder
+- Wire cutter or crimper thing.
+- 3D Printer (or printing legion)
+
+![51kHXut7r2L._AC_SX466_](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjcxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--59d84f29380bf37688c147d77ef9aa4177d0b3f6/51kHXut7r2L._AC_SX466_.jpg)
+
+#### Todo
+
+- Design 3D printable case
+- Learn to Solder
+- Finish ```README.md```
+
+
+_wait do the titels change colour in markdown with 4 #'s (i hate spelling colour cause of HTML now)_  
 
