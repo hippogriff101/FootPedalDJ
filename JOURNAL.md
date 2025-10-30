@@ -60,6 +60,7 @@ I updated my `BOM.cvs` with some new links and some nice formatting. I have foun
 - Design 3D printable case
 - Learn to Solder
 - Finish ```README.md```
+- CODE
 
 
 _wait do the titels change colour in markdown with 4 #'s (i hate spelling colour cause of HTML now)_  
